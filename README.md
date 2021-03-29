@@ -13,14 +13,14 @@ The following link redirects to Google Drive to show a video of the app's demo: 
 
 Below are snippets of the video.
 
-[App's homepage](https://drive.google.com/file/d/1hwd4JuHWGuu52c4FaZvGEtzSsMNuGgjK/view?usp=sharing)
+[App's homepage](https://github.com/ghostbustersrock/iRecycle/blob/master/App%20video%20snippets/Homepage.png)
 
-[Scanning a product's barcode](https://drive.google.com/file/d/1vGFetRgqOCjpSyimucRWOFdchiiJroXq/view?usp=sharing)
+[Scanning a product's barcode](https://github.com/ghostbustersrock/iRecycle/blob/master/App%20video%20snippets/Product%20scan.png)
 
-[Manually inputting a product's barcode](https://drive.google.com/file/d/1yaj4LBjdamlUq1pSXu91I4pgFmtrzIXs/view?usp=sharing)
+[Manually inputting a product's barcode](https://github.com/ghostbustersrock/iRecycle/blob/master/App%20video%20snippets/Manual%20barcode%20input.png)
 
-[Product's retrieved information](https://drive.google.com/file/d/143G6jCHxBed-dJFzLWjFxrNgCTPEeoan/view?usp=sharing)
+[Product's retrieved information](https://github.com/ghostbustersrock/iRecycle/blob/master/App%20video%20snippets/Product%20recycling%20information.png)
 
-[Inputting information of new product to save](https://drive.google.com/file/d/1u0NqTrrdZ30NxwiiJJF0pKRAvDGDjqji/view?usp=sharing)
+[Inputting information of new product to save](https://github.com/ghostbustersrock/iRecycle/blob/master/App%20video%20snippets/New%20product%20information%20input.png)
 
-[API retrieving images of product to save](https://drive.google.com/file/d/1w36xXq9TDD9x0EtXOYTeASB8tImYgAkh/view?usp=sharing)
+[API retrieving images of product to save](https://github.com/ghostbustersrock/iRecycle/blob/master/App%20video%20snippets/New%20product%20image%20selection.png)
